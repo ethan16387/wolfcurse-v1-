@@ -1,0 +1,11 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {"item": "minecraft:honey_bottle"},
+    {"item": "minecraft:glow_berries"},
+    {"item": "minecraft:amethyst_shard"}
+  ],
+  "results": [
+    {"id": "wolfcurse:wolf_cure"}
+  ]
+}

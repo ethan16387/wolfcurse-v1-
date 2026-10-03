@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "AEA",
+    " A "
+  ],
+  "key": {
+    "A": {"item": "minecraft:amethyst_shard"},
+    "E": {"item": "minecraft:emerald"}
+  },
+  "result": {
+    "id": "wolfcurse:cleansing_charm",
+    "count": 1
+  }
+}
